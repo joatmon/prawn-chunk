@@ -1,0 +1,2 @@
+prawn-chunk is an extension to the prawn PDF writer to enable easy inline changes 
+of font families, styles, sizes, and color.
